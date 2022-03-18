@@ -30,9 +30,9 @@
 </ul>
 
 <h2>Connect With me</h2>
-<a href="https://shameekhn.netlify.app"><img src="img/globe-light.svg" width="26px"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/sham._.kh/"><img src="img/instagram-light.svg" width="26px"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shameekh-naveed/"><img src="img/linkedin-light.svg" width="26px"></a>
+<a target="_blank" href="https://shameekhn.netlify.app"><img src="img/globe-light.svg" width="26px"></a>&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.instagram.com/sham._.kh/"><img src="img/instagram-light.svg" width="26px"></a>&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/shameekh-naveed/"><img src="img/linkedin-light.svg" width="26px"></a>
 
 
 <br>
