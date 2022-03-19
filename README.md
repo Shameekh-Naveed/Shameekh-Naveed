@@ -5,6 +5,7 @@
 <ul>
 <li>🎓  Studying Computer Sciences at National University of Sciences and Technology (NUST)</li>
 <li>🌏  I’m currently learning Data Analytics </li>
+<li>🌏  I work with Python, JavaScript, ReactJS </li>
 <li>🎯  I plan to learn full stack web development</li>
 <li>📫  Check out my <a href="https://shameekhn.netlify.app">portfolio </a></li>
 </ul>
