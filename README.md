@@ -36,14 +36,12 @@
 <a target="_blank" href="https://www.linkedin.com/in/shameekh-naveed/"><img src="img/linkedin-light.svg" width="26px"></a>
 
 
-<br>
+<br><br><br><br>
 <footer><a target="_blank" href="https://icons8.com/icon/13441/python">Python</a>
 &nbsp;<a target="_blank" href="https://icons8.com/icon/40669/c++">C++</a>
 &nbsp;<a target="_blank" href="https://icons8.com/icon/MXJBhIDosJsE/name">Name</a>
 &nbsp;<a target="_blank" href="https://icons8.com/icon/65372/outline">Outline</a>
 &nbsp;<a target="_blank" href="https://icons8.com/icon/62856/github">GitHub</a>&nbsp;icons by<a target="_blank" href="https://icons8.com">Icons8</a>
-
-
 </footer>
 <!--
 Icons courtesy: https://github.com/codeSTACKr/codeSTACKr
